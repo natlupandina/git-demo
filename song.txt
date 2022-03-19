@@ -10,6 +10,7 @@ some content
 Natalia rasada and blablabla
 new couplet123----
 -----------
+<<<<<<< HEAD
 
 new branch new info
 hello guys
@@ -20,3 +21,6 @@ second
 boys girls child man woman
 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 
+=======
+feature!!!!!!!
+>>>>>>> feature
