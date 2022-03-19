@@ -5,5 +5,5 @@ Eще две строчки
 
 git gui&
 
-some conten 
+some content
 
