@@ -7,7 +7,5 @@ git gui&
 
 some content
 
-Natalia rasada and blablabla
-new couplet123----
------------
+Natalia rasada
 
